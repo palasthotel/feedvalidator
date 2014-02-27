@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+
+
+
   <meta charset="utf-8" />
   <title>Futterprüfer 0.1</title>
   <link type="text/css" rel="stylesheet" href="style.css" media="screen" />
