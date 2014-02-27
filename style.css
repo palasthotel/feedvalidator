@@ -52,8 +52,9 @@ h1 {
 	padding:0.05em;
 	text-align:center;
 	font-weight:700;
-	text-decoration: none;
 	border: 10px solid red;
+	text-decoration: underline;
+	font-weight: bolder;
 }
 
 .hop {
