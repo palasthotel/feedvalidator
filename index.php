@@ -34,6 +34,8 @@ if(isset($_POST['url']))
 		$array=array($array);
 	foreach($array as $error)
 	{
+
+	if ($drpim != $content) { echo "hahahah";}
 ?>
 <div class="hop"><p><?=$error?></p></div>
 <?php
