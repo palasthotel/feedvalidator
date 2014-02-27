@@ -1,47 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
-
-html {
-    background-color: #FAFAFA;
-    height: 100%;
-    overflow: auto;
-}
-
-body {
-    font-size: 2em;
-	font-family:Lato, Verdana, Arial, sans;
-    height: 100%;
-	width:30em;
-    margin: auto;   
-    text-align:center;
-	padding:2em;
-	color:#111;
-	font-weight:300;
-}
-
-h1 {
-	font-size: 1em;
-	font-family:Lato, Verdana, Arial, sans;
-	font-weight: 700;
-}
-
-.url {
-	font-size: 1em;
-	width: 21em;
-	padding:0.5em;
-	margin:0.25em;
-	font-family:Lato, Verdana, Arial, sans;
-	color:#333;
-	font-weight:700;
-}
-
-.submit {
-	font-size: 0.5em;
-	padding:0.5em;
-	font-family:Lato, Verdana, Arial, sans;
-	color:#000;
-	width: 16em;
-	font-weight:300;
+.woodo {
+	display: none;
 }
 
 .top {
