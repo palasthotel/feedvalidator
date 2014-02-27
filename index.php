@@ -48,7 +48,7 @@ if(isset($_POST['url']))
 	<ul>
 		<?php
 			$items=$pie->get_items();
-			for ($i = 0; $i < 5 && $i < count($items); $i++)
+			for ($i = 0; $i < 7 && $i < count($items); $i++)
 			{
 		?>
 		<li>
