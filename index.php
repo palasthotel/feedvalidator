@@ -52,7 +52,7 @@ if(isset($_POST['url']))
 			{
 		?>
 		<li>
-			<a href="<?php echo $items[$i]->get_permalink();?>"><?= $items[$i]->get_title();?></a>
+			<a href="<?php echo $items[$i]->get_permalink();?>"><h4><?= $items[$i]->get_title();?></h4></a>
 			<div class="content"><?=$items[$i]->get_content(); ?>
 			</div>
 		</li>
